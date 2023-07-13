@@ -299,3 +299,13 @@ body{
         margin: 5px;
     }
 }
+
+@media only screen and (max-width: 300px){
+    .box_galery {
+        width: 85%;
+    }
+
+    .map{
+        width: 280px;
+    }
+}
