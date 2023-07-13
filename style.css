@@ -310,12 +310,14 @@ body{
     }
 }
 
-@media only screen and (max-width: 287px){
+@media only screen and (max-width: 315px){
     .box_galery {
         width: 90%;
     }
+}
 
-    .map{
-        width: 280px;
-    }
+@media only screen and (max-width: 307px){
+    .box_galery {
+        width: 90%;
+    
 }
