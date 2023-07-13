@@ -310,12 +310,12 @@ body{
     }
 }
 
-@media only screen and (max-width: 290px){
+@media only screen and (max-width: 287px){
     .box_galery {
         width: 90%;
     }
 
     .map{
-        width: 380px;
+        width: 280px;
     }
 }
